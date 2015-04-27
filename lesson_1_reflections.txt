@@ -1,0 +1,22 @@
+I could easily see the differences between my first file and second file.
+Also, I only saw the differences between 2 files and made my job way easier.
+Thanks to that, I was able to spot the typo and fix it easily.
+
+I can easily see the changes that I have done throughout the time. 
+This helps me to see which changes I have introduced. It also helps me
+to revoke any older version if I happen to make any critical mistake.
+
+I think if I do it manually, I can decide better when it makes sense to commit.
+That would make it easier to compare different commits and not make my history
+too big. On the other hand, it is very likely to forget to commit for a while and 
+then it can be too late to restore to an older version or make comparisons.
+
+It is because Google Docs works in a single file, and designed and developed
+for tracking the changes in a single file. Whereas git was developed for software 
+projects with multiple files.
+
+Git log gives me a comprehensive list of all the commits I have done and the summary
+for each commit. Git diff helps me to compare 2 different commits between each other.
+
+If something is broken, we can easily checkout an older commit and see where the bug was introduced,
+and compare with our latest commit.
