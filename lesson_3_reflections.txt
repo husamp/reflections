@@ -2,3 +2,7 @@ When would you want to create a remore repository rather than keeping all your w
 
 For sharing with other collaborators
 For backing up my projects
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because my remote can be updated by someone else, as well. This way, I can only pull whenever I'd like to, and keep my local repository intact.
