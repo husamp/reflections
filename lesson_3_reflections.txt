@@ -1,0 +1,4 @@
+When would you want to create a remore repository rather than keeping all your work local?
+
+For sharing with other collaborators
+For backing up my projects
