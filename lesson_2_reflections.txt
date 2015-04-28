@@ -4,3 +4,5 @@ It allows us to commit only the files we want to commit, not all the files in ou
 Using the staging area, I can only put the files that I want to commit or have made a change to staging area,
 and commit them. When I'm done with that, I can put other files to staging area.
 
+Diagrams are very helpful to see which commits are reachable by which commits. It also shows which commits can be lost
+if we don't create any branch, and see if we are in a detached head state.
