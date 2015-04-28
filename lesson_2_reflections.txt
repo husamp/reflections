@@ -2,4 +2,5 @@ Staging area keeps a track of the files to be committed, but not yet committed.
 It allows us to commit only the files we want to commit, not all the files in our repository.
 
 Using the staging area, I can only put the files that I want to commit or have made a change to staging area,
-and commit them. When I'm done with that, I can put other files to staging area 
+and commit them. When I'm done with that, I can put other files to staging area.
+
