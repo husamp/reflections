@@ -6,3 +6,10 @@ and commit them. When I'm done with that, I can put other files to staging area.
 
 Diagrams are very helpful to see which commits are reachable by which commits. It also shows which commits can be lost
 if we don't create any branch, and see if we are in a detached head state.
+
+By merging branches together, we can get together different changes introduced from different branches and use them
+in the single branch. This is also helpful when we have 2 different workstreams 
+
+Manual mergin always ensures to keep exactly what we want and omit the changes we aren't interested. But this would create 
+a huge amount of workload. Automatic merging makes this work much easier, but we might have some parts of the codes that we don't 
+want to see.
